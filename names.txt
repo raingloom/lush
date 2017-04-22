@@ -1,0 +1,4 @@
+pinnacle = Posix INcompatible Nifty Command Line Environment
+	/bin/pinnacle
+lush = LUa SHell
+	/bin/lush
